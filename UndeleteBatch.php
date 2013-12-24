@@ -15,7 +15,7 @@ if ( !defined( 'MEDIAWIKI' ) )
 // Extension credits that will show up on Special:version
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
-	'name' => 'Delete Batch',
+	'name' => 'Undelete Batch',
 	'version' => '1.0.0',
 	'author' => 'Nathan Larson',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:UndeleteBatch',
